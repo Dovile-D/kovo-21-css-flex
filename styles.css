@@ -5,6 +5,7 @@
 
 body {
     height: 100vh;
+    border: 0.1rem solid white;
 }
 
 #header {
@@ -25,6 +26,7 @@ div {
     flex-wrap: wrap;
     flex-direction: column;
     width: 100%;
+    border-width: 0.1rem 0 0 0;
 
 }
 
