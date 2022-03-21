@@ -11,10 +11,11 @@ body {
     height: 15%;
     background-color:lightblue;
     width: 100%;
+    border-bottom: 0;
 }
 
 div {
-    border: 2px solid white;
+    border: 0.1rem solid white;
 }
 
 .container {
@@ -60,6 +61,7 @@ div {
     background-color: gray;
     display: flex;
     flex-wrap: wrap;
+    border-top: 0;
 }
 
 #imagerelate {
@@ -76,5 +78,6 @@ div {
 #footer {
     height: 15%;
     background-color: orange;
+    border-top: 0;
 
 }
