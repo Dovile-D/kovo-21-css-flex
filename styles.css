@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+p {
+    text-align: center;
+}
+
 body {
     height: 100vh;
     border: 0.1rem solid white;
